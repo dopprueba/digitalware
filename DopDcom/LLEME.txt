@@ -1,0 +1,13 @@
+*) Proyectos realizados en Delphi XE4.
+
+*) Conexión db. Estos datos son configurables en el archivo config.ini al lado del .exe. servidor
+[DB]
+driver=MSSQL
+servidor=DAIRODELL\SQLEXPRESS
+nombre=dop_prueba_dcom
+usuario=sa
+clave=sqlserver
+libreriaNombre=dbxmss.dll
+libreriaProv=sqlncli10.dll
+
+

@@ -1,0 +1,2 @@
+2021/12/09 09:32:00	DB. Iniciar conexión.
+2021/12/09 09:32:00	DB. Conectado.

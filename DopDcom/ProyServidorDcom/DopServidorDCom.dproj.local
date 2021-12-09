@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/07/29 16:04:48.000.428,=C:\Users\desar1\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/12 11:44:52.000.327,=C:\Users\desar1\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/04 15:53:49.000.759,=C:\Users\desar1\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/04 15:53:50.000.052,=C:\Users\desar1\Documents\RAD Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2021/06/04 15:53:50.000.230,=C:\Users\desar1\Documents\RAD Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2021/06/04 15:54:49.000.943,=C:\Users\desar1\Documents\RAD Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2021/06/04 15:54:49.000.473,=C:\Users\desar1\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/04 15:54:49.000.743,=C:\Users\desar1\Documents\RAD Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2021/06/04 15:55:51.000.819,=C:\Users\desar1\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/04 15:55:52.000.176,=C:\Users\desar1\Documents\RAD Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2021/06/04 15:55:52.000.355,=C:\Users\desar1\Documents\RAD Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2021/06/11 10:26:57.000.775,=C:\Users\desar1\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/19 08:57:40.000.060,=C:\Users\desar1\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/25 09:40:49.000.838,=C:\Users\desar1\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/25 09:41:55.000.635,C:\Users\desar1\Documents\RAD Studio\Projects\Unit1.pas=C:\Dop Proy\ProyMultiCapa\ProyDcomServidor\Vista\VistaMenu.pas</Transaction>
+    <Transaction>2021/06/25 09:41:55.000.635,C:\Users\desar1\Documents\RAD Studio\Projects\Unit1.dfm=C:\Dop Proy\ProyMultiCapa\ProyDcomServidor\Vista\VistaMenu.dfm</Transaction>
+    <Transaction>2021/06/25 09:43:27.000.028,C:\Users\desar1\Documents\RAD Studio\Projects\Project1.dproj=C:\Dop Proy\ProyMultiCapa\ProyDcomServidor\DopServidorDCom.dproj</Transaction>
+    <Transaction>2021/06/25 09:46:20.000.474,=C:\Dop Proy\ProyMultiCapa\ProyServidorDcom\DopServidorDCom.ridl</Transaction>
+    <Transaction>2021/06/25 09:46:20.000.504,=C:\Dop Proy\ProyMultiCapa\ProyServidorDcom\DopServidorDCom_TLB.pas</Transaction>
+    <Transaction>2021/06/25 09:46:21.000.523,=C:\Dop Proy\ProyMultiCapa\ProyServidorDcom\Unit1.pas</Transaction>
+    <Transaction>2021/06/25 09:49:45.000.100,C:\Dop Proy\ProyMultiCapa\ProyServidorDcom\DataModuloRemoto\RDMServidorDCom.pas=C:\Dop Proy\ProyMultiCapa\ProyServidorDcom\Unit1.pas</Transaction>
+    <Transaction>2021/06/25 09:49:45.000.100,C:\Dop Proy\ProyMultiCapa\ProyServidorDcom\DataModuloRemoto\RDMServidorDCom.dfm=C:\Dop Proy\ProyMultiCapa\ProyServidorDcom\Unit1.dfm</Transaction>
+    <Transaction>2021/06/25 09:54:16.000.901,=C:\Dop Proy\ProyMultiCapa\ProyServidorDcom\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
